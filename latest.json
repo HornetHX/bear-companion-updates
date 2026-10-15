@@ -1,14 +1,14 @@
 {
-  "tag_name": "v1.8.0",
+  "tag_name": "v1.8.1",
+  "draft": false,
+  "prerelease": false,
   "assets": [
     {
+      "name": "bear-companion-v1.8.1-release.apk",
       "state": "uploaded",
-      "digest": "sha256:c12c05bdba143135b526071480f9845f3c4a16ca4e0dc514a6994a62e487e44b",
-      "size": 46003523,
-      "browser_download_url": "https://github.com/HornetHX/bear-companion-updates/releases/download/v1.8.0/bear-companion-v1.8.0-release.apk",
-      "name": "bear-companion-v1.8.0-release.apk"
+      "size": 45093643,
+      "digest": "sha256:75d19c21ca7ade19883c14dd79f52d573faea9ef53331ea2c4617f37844d3db6",
+      "browser_download_url": "https://github.com/HornetHX/bear-companion-updates/releases/download/untagged-24d8ae4cc64004c17f88/bear-companion-v1.8.1-release.apk"
     }
-  ],
-  "draft": false,
-  "prerelease": false
+  ]
 }
